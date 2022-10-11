@@ -17,4 +17,4 @@ hello jq! hello git
 hello jq! hello git
 hello jq! hello git
 hello jq! hello git
-hello jq! hello git
+hello jq! hello git hit-fix test
